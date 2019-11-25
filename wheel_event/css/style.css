@@ -1,0 +1,14 @@
+/*    Reset CSS  */
+* {margin: 0;  padding: 0;}
+ol, ul {list-style: none;}
+img {border: 0;}
+a {outline: 0; text-decoration: none; border: none;}
+
+#wrap>div {
+    width:100%; height:700px; position:relative;
+}
+#box1 {background:lightcyan;}
+#box2 {background:lightgreen;}
+#box3 {background:orange;}
+#box4 {background:violet;}
+

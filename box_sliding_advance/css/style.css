@@ -1,0 +1,29 @@
+/*    Reset CSS  */
+* {margin: 0;  padding: 0;}
+ol, ul, li {list-style: none;}
+img {border: 0;}
+a {outline: 0; text-decoration: none; border: none;}
+
+
+
+#wrap {
+    width: 1000px; height: 400px; 
+    margin: 100px auto;
+}
+.text1 {
+    display:inline-block; position:relative;
+    font:100px/1 'arial'; color:transparent;
+    overflow:hidden;
+}
+
+.text2 {
+    display:inline-block; position:relative;
+    font:70px/1 'arial'; color:transparent;
+    overflow:hidden;
+}
+
+.text3 {
+    display:inline-block; position:relative;
+    font:20px/1 'arial'; color:transparent;
+    overflow:hidden;
+}
